@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import HomePage from "./pages/homepage/homepage.component";
 import ShopPage from "./pages/shop/shop.component";
 import Header from "./components/header/header.component";
@@ -19,7 +19,7 @@ import CheckoutPage from "./pages/checkout/checkout.component";
 function App({ currentUser, setCurrentUser }) {
   //const [currentUser,setCurrentUser] = useState(null);
 
-  useEffect(() => {
+  /*useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged(async (userAuth) => {
       if (userAuth) {
         //user is signed in
@@ -30,6 +30,8 @@ function App({ currentUser, setCurrentUser }) {
             ...snapshot.data(),
           });
         });
+
+        //addCollectionAndDocuments("collections", collectionsArray.map( ({title,items}) => ({title,items}) ));
       } else {
         // User is signed out
         setCurrentUser(null);
@@ -39,7 +41,7 @@ function App({ currentUser, setCurrentUser }) {
     return () => {
       unsubscribe();
     };
-  }, []);
+  }, [setCurrentUser]);      */
 
   return (
     <div>
