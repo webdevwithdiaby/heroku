@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/saxa/static/css/main.080d9f53.chunk.css",
+    "main.js": "/saxa/static/js/main.699a426f.chunk.js",
+    "main.js.map": "/saxa/static/js/main.699a426f.chunk.js.map",
+    "runtime-main.js": "/saxa/static/js/runtime-main.85beb6da.js",
+    "runtime-main.js.map": "/saxa/static/js/runtime-main.85beb6da.js.map",
+    "static/js/2.447242ed.chunk.js": "/saxa/static/js/2.447242ed.chunk.js",
+    "static/js/2.447242ed.chunk.js.map": "/saxa/static/js/2.447242ed.chunk.js.map",
+    "static/js/3.eae0026f.chunk.js": "/saxa/static/js/3.eae0026f.chunk.js",
+    "static/js/3.eae0026f.chunk.js.map": "/saxa/static/js/3.eae0026f.chunk.js.map",
+    "index.html": "/saxa/index.html",
+    "static/css/main.080d9f53.chunk.css.map": "/saxa/static/css/main.080d9f53.chunk.css.map",
+    "static/js/2.447242ed.chunk.js.LICENSE.txt": "/saxa/static/js/2.447242ed.chunk.js.LICENSE.txt",
+    "static/media/logo.3a4e2b15.svg": "/saxa/static/media/logo.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/saxa/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85beb6da.js",
+    "static/js/2.447242ed.chunk.js",
+    "static/css/main.080d9f53.chunk.css",
+    "static/js/main.699a426f.chunk.js"
+  ]
+}
